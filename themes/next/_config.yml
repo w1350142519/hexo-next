@@ -694,7 +694,7 @@ leancloud_visitors:
   app_id: x55k80wDVN5g0VAmOWyHUaN4-gzGzoHsz
   app_key: iz8q5bkyFshl1KXQumg9BFPm
   # Required for apps from CN region
-  server_url: # <your server url>
+  server_url: https://hexo-next.vercel.app/
   # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security
   # If you don't care about security in leancloud counter and just want to use it directly
   # (without hexo-leancloud-counter-security plugin), set `security` to `false`.
